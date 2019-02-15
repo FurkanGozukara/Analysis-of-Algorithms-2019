@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\bin\Debug\insertion sort.exe.config
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\bin\Debug\insertion sort.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\bin\Debug\insertion sort.pdb
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\obj\Debug\insertion sort.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\obj\Debug\insertion sort.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\insertion sort\insertion sort\obj\Debug\insertion sort.pdb
