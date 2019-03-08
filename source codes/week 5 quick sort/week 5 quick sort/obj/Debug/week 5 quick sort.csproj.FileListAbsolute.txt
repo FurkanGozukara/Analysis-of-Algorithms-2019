@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\bin\Debug\week 5 quick sort.exe.config
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\bin\Debug\week 5 quick sort.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\bin\Debug\week 5 quick sort.pdb
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\obj\Debug\week 5 quick sort.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\obj\Debug\week 5 quick sort.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\obj\Debug\week 5 quick sort.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 5 quick sort\week 5 quick sort\obj\Debug\week 5 quick sort.pdb
