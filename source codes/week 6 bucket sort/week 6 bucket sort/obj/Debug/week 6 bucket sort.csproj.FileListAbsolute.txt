@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\bin\Debug\week 6 bucket sort.exe.config
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\bin\Debug\week 6 bucket sort.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\bin\Debug\week 6 bucket sort.pdb
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\obj\Debug\week 6 bucket sort.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\obj\Debug\week 6 bucket sort.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\obj\Debug\week 6 bucket sort.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 6 bucket sort\week 6 bucket sort\obj\Debug\week 6 bucket sort.pdb
