@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\bin\Debug\week 7 increase csharp stack size.exe.config
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\bin\Debug\week 7 increase csharp stack size.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\bin\Debug\week 7 increase csharp stack size.pdb
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\obj\Debug\week 7 increase csharp stack size.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\obj\Debug\week 7 increase csharp stack size.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\obj\Debug\week 7 increase csharp stack size.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 7 increase csharp stack size\week 7 increase csharp stack size\obj\Debug\week 7 increase csharp stack size.pdb
