@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\bin\Debug\week 13 linked list implentation.exe.config
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\bin\Debug\week 13 linked list implentation.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\bin\Debug\week 13 linked list implentation.pdb
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\obj\Debug\week 13 linked list implentation.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\obj\Debug\week 13 linked list implentation.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\obj\Debug\week 13 linked list implentation.exe
+C:\Users\Furkan Gözükara\Desktop\algoritma analizi 2019\source codes\week 13 linked list implentation\week 13 linked list implentation\obj\Debug\week 13 linked list implentation.pdb
